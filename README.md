@@ -1,4 +1,5 @@
 # My express API
+Simple API written in typescript and using express.
 
 ## Start from command line
 ```
